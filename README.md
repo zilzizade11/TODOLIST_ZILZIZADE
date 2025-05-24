@@ -11,7 +11,7 @@ Aplikasi sederhana berbasis PHP untuk mencatat tugas harian.
 
 ## Struktur Folder
 - `index.php` – halaman utama  
-- `assets/` – file CSS/JS jika ada  
+- `netactlib/` – file CSS/JS/FONTS 
 
 ## Cara Menjalankan
 1. Salin folder ke `htdocs/`  
