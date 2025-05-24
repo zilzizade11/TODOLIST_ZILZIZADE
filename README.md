@@ -19,4 +19,3 @@ Aplikasi sederhana berbasis PHP untuk mencatat tugas harian.
 
 ## Kontributor
 - [Zilzi Zade Tazkia](https://github.com/zilzizade11)
--
